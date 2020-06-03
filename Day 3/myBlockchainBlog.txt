@@ -1,0 +1,38 @@
+Blockchain is the technology that supports digital currency (Bitcoin, Ethereum). It is the tech that allows distribution of data where in each individual piece of 
+data can only have one owner.Each data is stored in a single block which is highly protected. A block is record of new transactions. When a block is completed, 
+it’s added to the chain. Bitcoin owners have the private password to an address on the chain, which is where their ownership is recorded. Crypto-currency is kind 
+of a transaction wherein you don’t need a bank to verify the transfer of money or take a cut of the transaction.
+
+Imagine two entities (eg - banks) that need to update their own user account balances when there is a request to transfer money from one customer to another. They 
+need to spend a tremendous (and costly) amount of time and effort for coordination, synchronization, messaging and checking to ensure that each transaction happens 
+exactly as it should. Typically, the money being transferred is held by the originator until it can be confirmed that it was received by the recipient. With 
+blockchain, a single ledger of transaction entries which both parties have access to can simplify the coordination and validation efforts because there is always a 
+single version of records, not two.
+
+
+I think that BlockChain is a technology that can revolutionize the world. Today, we are all very much used to share information through an interactive platform i.e. 
+the Internet. But when it comes to sending money or other valuables we usually have to use the same old services provided by centralized financial institutions (i.e. 
+banks). Sure, there are methods of making payments via the Internet (an example is PayPal), but they usually require integration with a bank account or credit card, 
+otherwise they cannot really be used. 
+
+Blockchain technology offers an opportunity to get rid of this "extra link". It’s perfectly designed to take on all three most important roles of the traditional 
+financial services: registration of transactions, identity verification and contracting. That’s really promising, as in terms of capitalization the financial services 
+industry is the world’s largest market. If some part of those services will switch to using blockchain, this will certainly disrupt the industry, but at the same time 
+it will significantly improve the efficiency of those services. As transactions are completed directly between the parties with no intermediary and in digital form, 
+settling a deal can be faster than ever. Add perfect transparency, traceability and security and you will understand what all the fuss is about. 
+
+Blockchain technology can also be used to store any type of digital information, including computer code. With blockchain, you turn any contract into a program that 
+will be executed only when both contracting parties enter their keys, thereby agreeing to a contract. The same program can track information from external data 
+sources (i.e. stock prices, weather forecasts, news headlines and everything else that can be analyzed by a computer) and create contracts that will be automatically 
+executed when certain conditions are met. This mechanism is called "smart contracts", and the areas of their possible application are never ending.
+
+Let's suppose you want to rent an apartment using smart contracts. You pay in crypto currency and, by a specified date, receive a digital entry key. If the key 
+doesn’t come on time, the blockchain makes a refund, making sure you won't lose your money. The key starts working exactly on the specified date and becomes useless 
+when the rental period is over, so the landlord is safe, too. 
+
+The same approach can be used to control the use of intellectual property, determining how many times a user can access, share, or copy the information. It can also 
+be used to create voting systems protected from falsifications, to help people access and receive information from diverse sources without censorship, and much more. 
+There are some challenges, of course, the tech is still developing and it’s legal and regulatory status is uncertain. The possibilities are so promising that there 
+can be no doubt that blockchain will become an integral part of our daily life in the very near future, and now might be the perfect time to benefit on it.
+
+
