@@ -1,0 +1,39 @@
+Blockchain technology is being used to create applications that go beyond just enabling a digital currency. Ethereum is the
+largest and most well-established, open-ended decentralized software platform.
+
+Ethereum enables the deployment of smart contracts and decentralized applications, also known as DApps, to be built and run
+ without any downtime, fraud, control or interference from a third party. Ethereum comes complete with its own programming 
+language, which is Solidity, which runs on a blockchain, enabling developers to build and run distributed applications.
+
+The potential applications of Ethereum are wide-ranging and are powered by its native crypto currency, ether (commonly 
+abbreviated as ETH). Ether is like the fuel for running commands on the Ethereum platform and is used by developers to 
+build and run applications on the platform.
+
+Ether is used mainly for two purposes i.e. it is traded as a digital currency on exchanges in the same fashion as other cry
+pto currencies, and it is used on the Ethereum network to run applications. 
+
+While both Bitcoin and Ether are cryptocurrencies, the ethereum blockchain is very different from the bitcoin blockchain. 
+Bitcoin was designed purely as a digital currency. The ethereum blockchain is a more general implementation of blockchain 
+technology.
+
+Both offer anonymous transactions, and neither of the two is controlled or regulated by a centralised body. However, they 
+still differ remarkably in nature as well as functions. It’s clear that there are benefits to using both Bitcoin and 
+Ethereum. Bitcoin has a lower coin supply and is more liquid than Ethereum, but Ethereum has better technology and provides
+ more uses than Bitcoin does.
+
+The hashing algorithm is the primary difference between Ethereum mining and Bitcoin mining, Bitcoin uses SHA-256, and 
+Ethereum uses Ethash. While bitcoin’s average block time is around 10 minutes, ethereum’s completes in just 12 seconds. 
+Another distinguishing feature is differences in their monetary supply. More than 65 percent of bitcoin has already been 
+mined, while since its inception, not more than 50 per cent of ethereum are mined so far. Also, they cost their transactions 
+in different ways. Also the bitcoin blockchain has a block limit of 1 MB, that means is the number of transactions that 
+fit into a single block cannot exceed a 1 MB.
+
+In fact, bitcoin and ethereum differ in purpose: Bitcoin is pitched as an alternate currency, or digital currency, 
+ethereum facilitates peer-to-peer contracts and applications via its own currency vehicle. That’s why bitcoin has emerged 
+as more stable digital currency, while ethereum is more about smart contract applications.
+
+The thing which makes the ethereum blockchain more generalised is the concept of the EVM, or Ethereum Virtual Machine. 
+Using the EVM we can write code, called smart contracts, to automate and execute real world agreements in an immutable 
+ledger. The underlying currency of ethereum is called Ether and is used to buy computation power or ability to run these 
+programs. Smart contracts allow for the blockchain to be applicable in a range of different industries like, trade and 
+finance, supply chain, securities and derivatives, and banking.
