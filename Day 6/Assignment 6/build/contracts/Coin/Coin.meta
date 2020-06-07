@@ -1,0 +1,17 @@
+{
+    "compile": {
+        "gasEstimates": {
+            "creation": {
+                "codeDepositCost": "249400",
+                "executionCost": "20553",
+                "totalCost": "269953"
+            },
+            "external": {
+                "balances(address)": "574",
+                "mint(address,uint256)": "20906",
+                "minter()": "436",
+                "send(address,uint256)": "42920"
+            }
+        }
+    }
+}
